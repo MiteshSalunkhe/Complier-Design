@@ -1,0 +1,17 @@
+# if x >= 6:
+
+  #  print(f"x is greater then {x}")
+
+#else :
+    
+ #       print(f"x is not greater then {x}")  
+switch () {
+    case x:
+     code block
+    break;
+  case y:
+     code block
+    break;
+  
+}
+        
