@@ -1,0 +1,8 @@
+
+f,g;
+int a;
+float b;
+char ch;
+bool az;
+c = a + b;
+d = c-f;
